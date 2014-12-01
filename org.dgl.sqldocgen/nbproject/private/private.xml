@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/AboutFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/manager/DBManager.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/Lang.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/Util.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/application.properties</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/Commentable.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/TableColumnCommentFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/SqlDocGenerator.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/manager/ConfigurationManager.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/manager/LogManager.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/manager/LangManager.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/TableColumn.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/SQL.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/SqlDocGeneratorFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/TableTrigger.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/SqlConfiguration.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/ConfigurationFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/Table.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/ProgressionFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/StoredProcedure.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/Main.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/gui/TableTriggerCommentFrame.java</file>
+            <file>file:/C:/Users/Administrator/Documents/NetBeansProjects/org.dgl.sqldocgen/src/org/dgl/sqldocgen/db/View.java</file>
+        </group>
+    </open-files>
+</project-private>
