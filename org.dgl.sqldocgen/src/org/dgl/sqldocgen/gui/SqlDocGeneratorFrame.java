@@ -496,7 +496,7 @@ public class SqlDocGeneratorFrame extends JFrame implements ActionListener, List
                     }
                 }
                 try {
-                    Util.generateHtmlOutputFile(sqlDocGenerator, outputFile.getAbsolutePath());
+                    Util.generateHtmlOutputFile(sqlDocGenerator, outputFile.getAbsolutePath() + ".html");
                 } catch (Exception ex) {
                     ex.printStackTrace();
                     LogManager.error(LogManager.describeException(ex));

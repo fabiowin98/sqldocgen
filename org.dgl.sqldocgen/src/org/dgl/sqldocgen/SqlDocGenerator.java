@@ -183,7 +183,10 @@ public class SqlDocGenerator {
         return views;
     }
 
-    public DBManager getDatabaseManager() {
+    public DBManager getDatabaseManager() throws Exception{
+        if (!databaseManager.isConnected()) {
+            databaseManager.connect();
+        }
         return databaseManager;
     }
 

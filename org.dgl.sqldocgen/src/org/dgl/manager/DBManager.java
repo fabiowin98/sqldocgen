@@ -47,6 +47,19 @@ public class DBManager {
         connection = java.sql.DriverManager.getConnection(url + username + password);
     }
 
+    public boolean isConnected() throws Exception {
+        if (connection != null) {
+            return !connection.isClosed();
+        }
+        return false;
+    }
+
+    public void connect() throws Exception {
+        if (connection != null) {
+            connection = java.sql.DriverManager.getConnection(url + username + password);
+        }
+    }
+
     public java.sql.ResultSet query(String sql) throws Exception {
         statement = connection.createStatement();
         statement.setQueryTimeout(DEFAULT_QUERY_TIMEOUT);
